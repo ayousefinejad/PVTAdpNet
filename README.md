@@ -1,4 +1,4 @@
-# PVTResNet
+# PVTAdpNet
 
 PVTAdpNet is an encoder decoder network with adapter layer which can be used for efficient biomedical image segmentation for both in-distribution and out-of-distribution datasets.
 
